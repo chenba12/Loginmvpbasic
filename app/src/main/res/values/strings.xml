@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login mvp basic</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="learn_more">Learn More</string>
+    <string name="create_account">Create Account</string>
+</resources>
