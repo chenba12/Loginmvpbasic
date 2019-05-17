@@ -1,5 +1,6 @@
 package com.example.loginmvpbasic.ui.base;
 
-public interface MvpPresenter extends <V extends MvpView> {
+public interface MvpPresenter<V extends MvpView> {
 
+    void onAttach(V mvpView);
 }
