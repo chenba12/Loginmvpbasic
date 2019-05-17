@@ -1,4 +1,5 @@
 package com.example.loginmvpbasic.ui.welcome;
 
-public class WelcomeViewMvp {
+public interface WelcomeViewMvp {
+
 }

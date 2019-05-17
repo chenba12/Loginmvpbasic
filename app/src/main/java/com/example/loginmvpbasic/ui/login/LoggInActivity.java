@@ -1,11 +1,11 @@
-package com.example.loginmvpbasic.ui.loggedin;
+package com.example.loginmvpbasic.ui.login;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.example.loginmvpbasic.R;
 
-public class LoggedInActivity extends AppCompatActivity {
+public class LoggInActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
