@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ui.loggedin.LoggedInActivity"></activity>
+        <activity android:name=".ui.loggedin.LogginActivity"></activity>
         <activity android:name=".ui.slpash.SplashActivity" />
         <activity android:name=".ui.welcome.WelcomeActivity">
             <intent-filter>

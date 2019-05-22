@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">Login mvp basic</string>
-    <string name="welcome">Welcome</string>
+    <string name="welcome">1 MD Talent</string>
     <string name="login">Login</string>
     <string name="learn_more">Learn More</string>
     <string name="create_account">Create Account</string>
+    <string name="app_logo">App Logo</string>
+    <string name="welcome_to_1_md_talent">Welcome to 1 MD Talent!</string>
+    <string name="terms_of_use">Terms of use</string>
 </resources>
