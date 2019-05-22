@@ -31,11 +31,13 @@ public class SplashActivity extends AppCompatActivity implements SplashMvpView {
 
         Intent intent = new Intent(SplashActivity.this, HomeActivity.class);
         startActivity(intent);
+        finish();
     }
 
     @Override
     public void openWelcomeActivity() {
         Intent intent = new Intent(SplashActivity.this, WelcomeActivity.class);
         startActivity(intent);
+        finish();
     }
 }
