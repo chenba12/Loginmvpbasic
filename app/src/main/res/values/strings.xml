@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Login mvp basic</string>
+    <string name="welcome">1 MD Talent</string>
+    <string name="login">Login</string>
+    <string name="learn_more">Learn More</string>
+    <string name="create_account">Create Account</string>
+    <string name="app_logo">App Logo</string>
+    <string name="welcome_to_1_md_talent">Welcome to 1 MD Talent!</string>
+    <string name="terms_of_use">Terms of use</string>
+    <string name="app_background">App background</string>
+    <string name="by_signing_in_you_agree_to_our_terms_and_conditions_privacy_policy"><![CDATA[By signing in you agree to our Terms and Conditions & Privacy Policy]]></string>
+    <string name="please_enter_your_email">Please enter your email</string>
+    <string name="please_enter_your_password">Please enter your password</string>
+    <string name="sign_out">Sign out</string>
+    <string name="short_description">Short description</string>
+    <string name="video_name">Video name</string>
+    <string name="learn_more_title">Learn more</string>
+    <string name="welcome_title">Welcome</string>
+    <string name="md1_talent_title">1 MD Talent</string>
+    <string name="home_page_title">Home page</string>
+    <string name="info_text">This app is to demonstrate a basic implementation of the model view presenter pattern or in short MVP.</string>
+    <string name="go_login">* In the Welcome page press Login to go to the Log in page.</string>
+    <string name="login_page_image">Login Page Image</string>
+    <string name="type_email_and_password">* Simply type a valid email and password and press the log in button.</string>
+    <string name="by_chen_ben_ami">** By Chen Ben Ami **</string>
+    <string name="email">* At the top of the page you will see the email you entered taken from shared preferences.</string>
+    <string name="videos">* a list of 6 videos will be shown with the name,thumbnail image and video duration.</string>
+    <string name="youtube">* By clicking on one of the videos you will be redirected to youtube.</string>
+</resources>
