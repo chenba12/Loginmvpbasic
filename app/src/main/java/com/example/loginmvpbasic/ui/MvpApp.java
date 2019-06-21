@@ -46,7 +46,7 @@ public class MvpApp extends Application {
         mApplicationComponent.inject(this);
 
     }
-
+//
     public ApplicationComponent getComponent() {
         return mApplicationComponent;
     }
