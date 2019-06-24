@@ -25,9 +25,6 @@ import com.example.loginmvpbasic.di.module.ApplicationModule;
 import javax.inject.Inject;
 
 
-/**
- * Created by janisharali on 27/01/17.
- */
 
 public class MvpApp extends Application {
 
